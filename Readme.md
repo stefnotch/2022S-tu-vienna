@@ -2,8 +2,6 @@ TISS Wann Übungen (welche Tage)
 (Wann PräsenzVOs?)
 All deadlines have 1 less day, because Tuwel might be down or some other terrible thing
 
-TODO: Put the dates into your cat-lender
-
 Scheme
 - Links: Tuwel, Homepage
 - Lectures (when, where)
