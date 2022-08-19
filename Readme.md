@@ -10,13 +10,6 @@ Scheme
 - Exams (when, where, grading)
 - Grading
 
-## Live (no recordings)
-- Daten- und Informatikrecht
-- SEPM VO
-
-## In-person exercises
-- Einführung in die Künstliche Intelligenz ? (probably not)
-
 ## 184.710 Parallel Computing ✅
 - [Tuwel](https://tuwel.tuwien.ac.at/course/view.php?idnumber=184710-2022S)
 - Mittwoch 13:00 - 15:00 Uhr (präsenz, but slides are online)
