@@ -2,8 +2,6 @@ TISS Wann Übungen (welche Tage)
 Wann PräsenzVOs?
 All deadlines have 1 less day, because Tuwel might be down or some other terrible thing
 
-TODO: Put the dates into your cat-lender
-
 Scheme
 - Links: Tuwel, Homepage
 - Lectures (when, where)
@@ -11,12 +9,6 @@ Scheme
 - Exercises (when, where, how, additional info)
 - Exams (when, where, grading)
 - Grading
-
-## Live (no recordings)
-- SEPM VO
-
-## In-person exercises
-- Nobody, yay
 
 ## 184.710 Parallel Computing ✅
 - [Tuwel](https://tuwel.tuwien.ac.at/course/view.php?idnumber=184710-2022S)
